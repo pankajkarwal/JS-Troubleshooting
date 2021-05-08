@@ -1,4 +1,4 @@
-# JS-Troubleshooting
+# Node-JS-Email-Troubleshooting
 First Stop the 2 Way Authentication in Gmail See the Image 2
 Second Turn On the Less Secure App
 
