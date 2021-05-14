@@ -28,3 +28,6 @@ transporter.sendMail(mailOptions, function(error, info){
     console.log('Email sent: ' + info.response);
   }
 });
+
+# Dynamically Saved incoming json field data into Mysql 
+See the server.js file
